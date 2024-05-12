@@ -29,7 +29,7 @@ node index.js
 
 ## Input and output examples
 
-### Inptu text
+### Input text
 
 ```bash
 Mrs. Dudley turned aside to let Eleanor come in, and spoke, apparently to the wall. 
