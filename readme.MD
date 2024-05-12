@@ -62,7 +62,8 @@ I leave before dark comes."
 
 "I know," Eleanor said tiredly.
 
-"In the night," Mrs. Dudley said, and smiled outright. "In the dark," she said, and closed the door behind her.
+"In the night," Mrs. Dudley said, and smiled outright. "In the dark," she said, and closed the 
+door behind her.
 ```
 
 ### Translation
