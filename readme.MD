@@ -32,11 +32,17 @@ node index.js
 ### Inptu text
 
 ```bash
-Mrs. Dudley turned aside to let Eleanor come in, and spoke, apparently to the wall. "I set dinner on the dining-room sideboard at six sharp," she said. "You can serve yourselves. I clear up in the morning. I have breakfast ready for you at nine. That's the way I agreed to do. I can't keep the rooms up the way you'd like, but there's no one else you could get that would help me. I don't wait on people. What I agreed to, it doesn't mean I wait on people."
+Mrs. Dudley turned aside to let Eleanor come in, and spoke, apparently to the wall. 
+"I set dinner on the dining-room sideboard at six sharp," she said. "You can serve 
+yourselves. I clear up in the morning. I have breakfast ready for you at nine. 
+That's the way I agreed to do. I can't keep the rooms up the way you'd like, but 
+there's no one else you could get that would help me. I don't wait on people. 
+What I agreed to, it doesn't mean I wait on people."
 
 Eleanor nodded, standing uncertainly in the doorway.
 
-"I don't stay after I set out dinner," Mrs. Dudley went on. "Not after it begins to get dark. I leave before dark comes."
+"I don't stay after I set out dinner," Mrs. Dudley went on. "Not after it begins to get dark. 
+I leave before dark comes."
 
 "I know," Eleanor said.
 
@@ -62,11 +68,16 @@ Eleanor nodded, standing uncertainly in the doorway.
 ### Translation
 
 ```bash
-Rouva Dudley siirtyi syrjään päästääkseen Eleanorin sisään ja puhui ilmeisesti seinälle. "Laitan illallisen tarjolle ruokasalin sivupöydälle tasan kuudelta", hän sanoi. "Voitte tarjoilla itse. Siivoan aamulla. Aamiainen on valmiina yhdeksältä. Näin olen sopinut tekeväni. En voi pitää huoneita sellaisessa kunnossa kuin haluaisitte, mutta ketään muuta ette saisi auttamaan minua. En passaa ihmisiä. Se, mitä olen sopinut, ei tarkoita, että passaan ihmisiä."
+Rouva Dudley siirtyi syrjään päästääkseen Eleanorin sisään ja puhui ilmeisesti seinälle. "Laitan 
+illallisen tarjolle ruokasalin sivupöydälle tasan kuudelta", hän sanoi. "Voitte tarjoilla itse. 
+Siivoan aamulla. Aamiainen on valmiina yhdeksältä. Näin olen sopinut tekeväni. En voi pitää 
+huoneita sellaisessa kunnossa kuin haluaisitte, mutta ketään muuta ette saisi auttamaan minua. 
+En passaa ihmisiä. Se, mitä olen sopinut, ei tarkoita, että passaan ihmisiä."
 
 Eleanor nyökkäsi seisoen epävarmana oviaukossa.
 
-"En jää sen jälkeen, kun olen laittanut illallisen esille", rouva Dudley jatkoi. "En sen jälkeen, kun alkaa tulla pimeää. Lähden ennen pimeän tuloa."
+"En jää sen jälkeen, kun olen laittanut illallisen esille", rouva Dudley jatkoi. "En sen jälkeen, 
+kun alkaa tulla pimeää. Lähden ennen pimeän tuloa."
 
 "Tiedän", Eleanor sanoi.
 
